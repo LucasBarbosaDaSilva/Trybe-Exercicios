@@ -2,5 +2,9 @@ Unix
 Bash
 Html
 Css
+Tybe-skills-updates
+Phyton
+
 Course
 Git
+master
