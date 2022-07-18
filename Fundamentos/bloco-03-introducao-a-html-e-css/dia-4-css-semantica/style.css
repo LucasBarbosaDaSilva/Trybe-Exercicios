@@ -39,5 +39,17 @@
         text-align: center;
         width: 300px;
       }
-     
+     .main1 {
+        display: inline-block;
+     }
+     .premios {
+    
+        margin-top: 20%;
+       text-align: center;
+     }
+     .section2 li {
+        display:inline-block;
+        
+        
+     }
    
